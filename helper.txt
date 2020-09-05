@@ -1,0 +1,29 @@
+
+
+PHP FIG - estudar
+
+# Composer - componentização - estudar
+	mostrar como instalar o composer - setup
+	inicializar o composer - composer init [seguir preenchendo com qq coisa]
+	abrir o composer e atualizar as dependencias
+	atualizar dependencias composer - composer update
+	getcomposer.org
+
+https://packagist.org/
+coffeecode/datalayer
+
+banco de dados datalayer
+tabela usuario * users
+id
+first_name
+last_name
+genero *genre
+dtaCadastro *created_at
+dtaAlteracao *updated_at
+
+tabela endereco * addresses
+addr_id
+user_id
+street
+number
+
